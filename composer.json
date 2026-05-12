@@ -1,0 +1,16 @@
+{
+    "name": "meetnote_ai",
+    "description": "Smart Meeting & Classroom Notes Generator",
+    "version": "1.0.0",
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MeetNoteAI\\": "src/"
+        }
+    }
+}
